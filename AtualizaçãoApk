@@ -1,10 +1,11 @@
 {
-  "Visibility": "a",
-  "Title": "Test",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
+  "Visibility": "VISIBLE",
+  "Title": "Nova Atualização",
+  "Description": "Novo Player
+  Erros Corrigidos",
+  "MainTextButton": "Baixar Atualização"
   "Cancelable": "false",
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
-  "Version": "1.0"
+  "CancelButtonText": "Cancelar",
+  "DownloadLink": "https://playcine.x10.mx/app/Play_Flix_base.apk",
+  "Version": "1.1"
 }
