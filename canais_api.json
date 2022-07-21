@@ -1,0 +1,536 @@
+[
+   {
+      "id": 1,
+      "name": "GLOBO RJ",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5120",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/globorj.png?alt=media&token=c6430504-493f-46f8-a0b7-12007a973c25"
+   },
+   {
+      "id": 2,
+      "name": "GLOBO MG",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5128",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Logotipo_da_TV_Globo_Minas.png?alt=media&token=10397c7a-8cc7-421f-8c0e-ac224099ab69"
+   },
+   {
+      "id": 2,
+      "name": "GLOBO NEWS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5184",
+      "poster_path": "https://th.bing.com/th/id/OIP.DUFXquK-b2z55t2SNTczNwHaEc?w=261&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 3,
+      "name": "GLOBO SP",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5116",
+      "poster_path": "https://th.bing.com/th/id/OIP.pO3M6cBX5vaUHcWlkCmTkAHaEc?w=287&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 3,
+      "name": "RECORD",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/29850",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/record-tv-logo.png?alt=media&token=f9a5edf3-c89e-42cd-8369-cb914ba28615"
+   },
+   {
+      "id": 4,
+      "name": "RECORD NEWS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5182",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Record_News_(color).svg.png?alt=media&token=02c91ebf-4e78-440b-a7b3-68c4901569db"
+   },
+   {
+      "id": 5,
+      "name": "REDE TV",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4959",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Logotipo_da_RedeTV!.png?alt=media&token=0df6109c-ada3-4e11-bee8-11a7f482bfcd"
+   },
+   {
+      "id": 6,
+      "name": "SBT",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/203015",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Logotipo_do_SBT.svg.png?alt=media&token=be859619-efbf-4082-a6c5-380b4a6733cd"
+   },
+   {
+      "id": 7,
+      "name": "BAND",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4969",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Rede_Bandeirantes_logo_2018.svg.png?alt=media&token=c7249817-f9b3-4c07-9627-f27c7d575f93"
+   },
+   {
+      "id": 7,
+      "name": "BAND SPORTS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5037",
+      "poster_path": "https://th.bing.com/th/id/OIP.eW7At5Cre8UeRLvFnra-WgAAAA?w=184&h=120&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 7,
+      "name": "BAND NEWS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5186",
+      "poster_path": "https://th.bing.com/th/id/OIP.A_wsJ4l1QhGLeW_52kyDEAHaEc?w=297&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 1,
+      "name": "ANIMAL PLANET",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5003",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-2018_Animal_Planet_logo.svg.png?alt=media&token=2fa53416-64a1-4a66-aeaa-7d0dbdab8847"
+   },
+   {
+      "id": 2,
+      "name": "DISCOVERY CHANNEL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5001",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
+   },
+   {
+      "id": 3,
+      "name": "DISCOVERY THEATER",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4993",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1280px-2015_Discovery_theater_HD_logo.svg.png?alt=media&token=882bfcf8-b552-4b25-bd31-fa063f9ee8e5"
+   },
+   {
+      "id": 4,
+      "name": "DISCOVERY WORLD",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4989",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-World_Discovery_HD_logo.svg.png?alt=media&token=0f500aac-45f3-49bb-ba4d-6b21faff7338"
+   },
+   {
+      "id": 5,
+      "name": "DISCOVERY SCIENCE",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4995",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/LOGO_DISCOVERY_SCIENCE.png?alt=media&token=a0fd3140-db66-4277-b4ec-79c77916f6ee"
+   },
+   {
+      "id": 6,
+      "name": "DISCOVERY TURBO",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4991",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
+   },
+   {
+      "id": 7,
+      "name": "H2",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/21111",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/History2Logo2019.png?alt=media&token=a5f80209-e903-4382-9201-05ff0bc9afe6"
+   },
+   {
+      "id": 8,
+      "name": "HISTORY CHANNEL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4985",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/history-channel-logo.png?alt=media&token=a83458a8-f9bc-45b1-9fa2-bfd8d7cab171"
+   },
+   {
+      "id": 9,
+      "name": "INVESTIGAÇÃO DISCOVERY",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4983",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
+   },
+   {
+      "id": 10,
+      "name": "NAT GEO",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/228008",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
+   },
+   {
+      "id": 11,
+      "name": "NAT GEO WILD",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/206597",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
+   },
+   {
+      "id": 12,
+      "name": "TLC",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5241",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
+   },
+   {
+      "id": 1,
+      "name": "FOX SPORTS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/206544",
+      "poster_path": "https://i.imgur.com/clrUXra.png"
+   },
+   {
+      "id": 2,
+      "name": "FOX SPORTS 2",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5020",
+      "poster_path": "https://i.imgur.com/clrUXra.png"
+   },
+   {
+      "id": 3,
+      "name": "ESPN BRASIL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5034",
+      "poster_path": "https://i.imgur.com/ZkUIQ8X.png"
+   },
+   {
+      "id": 4,
+      "name": "ESPN",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5034",
+      "poster_path": "https://i.imgur.com/69VH6Ln.png"
+   },
+   {
+      "id": 4,
+      "name": "ESPN 2",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5030",
+      "poster_path": "https://th.bing.com/th/id/OIP.6cz4n3cBqDov2rNLwr-hkAHaEK?w=277&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 4,
+      "name": "ESPN 3",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5035",
+      "poster_path": "https://th.bing.com/th/id/OIP.ICWa2K8lPIYqafLGedXs0QHaEL?w=283&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 4,
+      "name": "ESPN 4",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5022",
+      "poster_path": "https://i.imgur.com/69VH6Ln.png"
+   },
+   {
+      "id": 5,
+      "name": "ESPN EXTRA",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5031",
+      "poster_path": "https://i.imgur.com/xWKhnHp.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE CLUBES FHD",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5211",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 2",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5203",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 3",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5201",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 4",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5199",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 5",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5197",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 6",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5195",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 7",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5193",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE 8",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/25587",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
+   },
+   {
+      "id": 6,
+      "name": "PREMIERE CLUBES",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5191",
+      "poster_path": "https://th.bing.com/th/id/OIP.FFZoKPxRKBjjh9oDRYay1QHaEK?w=284&h=180&c=7&r=0&o=5&pid=1.7"
+   },
+   {
+      "id": 7,
+      "name": "SPORTV",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5012",
+      "poster_path": "https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png"
+   },
+   {
+      "id": 8,
+      "name": "SPORTV 2",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5015",
+      "poster_path": "https://i.imgur.com/V0k4CDo.png"
+   },
+   {
+      "id": 9,
+      "name": "SPORTV 3",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5013",
+      "poster_path": "https://i.imgur.com/nvCjg9X.png"
+   },
+   {
+      "id": 10,
+      "name": "BAND SPORTS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5037",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
+   },
+   {
+      "id": 11,
+      "name": "COMBATE",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5212",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
+   },
+   {
+      "id": 12,
+      "name": "DISCOVERY TURBO",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4991",
+      "poster_path": "https://i.imgur.com/kTrySJZ.png"
+   },
+   {
+      "id": 1,
+      "name": "AMC",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5098",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142219.214.png?alt=media&token=213ad169-a1c7-4597-968a-ce2c55ce5b6d"
+   },
+   {
+      "id": 2,
+      "name": "AXN",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5096",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-AXN_logo_(2015).svg.png?alt=media&token=570e7432-51d4-43d4-b82e-6c17ef9a91f5"
+   },
+   {
+      "id": 3,
+      "name": "CINEMAX",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5090",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/br_cinemax-basic_m.png?alt=media&token=3033cb8d-f339-4a7c-872a-d943a76d205c"
+   },
+   {
+      "id": 4,
+      "name": "FX",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5080",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-FX_International_logo.svg.png?alt=media&token=6638068a-7f0e-4ec1-bcc3-bec35c805c95"
+   },
+   {
+      "id": 5,
+      "name": "HBO FAMILY",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5145",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/hbofamily.png?alt=media&token=787df656-1c86-49c3-8f3f-ca048d9a60ce"
+   },
+   {
+      "id": 6,
+      "name": "HBO MUNDI",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5078",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Mundi.svg.png?alt=media&token=249f051a-7295-444e-b792-8d35903193cc"
+   },
+   {
+      "id": 7,
+      "name": "HBO POP",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5073",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142600.132.png?alt=media&token=e8af429a-8f79-4401-9420-3e69c1234274"
+   },
+   {
+      "id": 8,
+      "name": "HBO PLUS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/25480",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142539.666.png?alt=media&token=a08f5cb8-762c-47f2-af5f-5726c2b81eeb"
+   },
+   {
+      "id": 9,
+      "name": "HBO SIGNATURE",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5139",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Signature.svg.png?alt=media&token=e431c4e8-936d-4100-94ac-310af9210f45"
+   },
+   {
+      "id": 10,
+      "name": "MEGAPIX",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5071",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/8e98b42584b1a930aee9241e73fa.png?alt=media&token=7c008d78-e45d-4513-ad00-3fed61e0eacd"
+   },
+   {
+      "id": 11,
+      "name": "SPACE",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5065",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/spacehd.png?alt=media&token=9c9e14fd-fc48-421f-bcbd-ac102978303d"
+   },
+   {
+      "id": 12,
+      "name": "SYFY",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5067",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T143154.596.png?alt=media&token=2e461c2d-866a-43e8-8688-0453917f1e9f"
+   },
+   {
+      "id": 13,
+      "name": "TBS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5059",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-TBS_logo_2016.svg.png?alt=media&token=fe337c9a-2f04-4abb-8dda-0e6e14808710"
+   },
+   {
+      "id": 14,
+      "name": "TELECINE ACTION",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5227",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Action_2.png?alt=media&token=d6dda0ce-15c2-4d22-a366-ba95c135ef08"
+   },
+   {
+      "id": 15,
+      "name": "TELECINE CULT",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5225",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/tccultb.png?alt=media&token=48a707bf-8be0-495f-9324-1ee7f1880581"
+   },
+   {
+      "id": 16,
+      "name": "TELECINE PIPOCA",
+      "link": "https://sinalpublico.com/player3/ch.php?canal=telecinepipoca",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1024px-Telecine_Pipoca.png?alt=media&token=bcc9a42e-557a-4ad2-9c1f-68495238df17"
+   },
+   {
+      "id": 17,
+      "name": "TELECINE PREMIUM",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5219",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Premium.png?alt=media&token=bf2d0b0b-1f71-418c-bca0-3772b5feab74"
+   },
+   {
+      "id": 18,
+      "name": "TELECINE TOUCH",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5217",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Touch_3.png?alt=media&token=6bc6e72e-42a0-464d-ab97-6d3ed7e2c1c4"
+   },
+   {
+      "id": 19,
+      "name": "TNT",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5056",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1000px-TNT_Logo_2016.svg.png?alt=media&token=c805e691-d762-4f35-bd58-e207865d9d9c"
+   },
+   {
+      "id": 20,
+      "name": "TNT SERIES",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5054",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T144015.682.png?alt=media&token=77e3bfa0-b1e8-41e6-b391-ffe2310b0ceb"
+   },
+   {
+      "id": 21,
+      "name": "UNIVERSAL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/228270",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Universal_TV_logo.svg.png?alt=media&token=04d88d84-89f0-4a09-bd08-d96bcb4ae4d9"
+   },
+   {
+      "id": 1,
+      "name": "NICKELODEON",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5155",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-15T152711.499.jpeg?alt=media&token=cf0cbb78-d283-4b89-9912-ee93fba864b0"
+   },
+   {
+      "id": 2,
+      "name": "DISNEY XD",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/206530",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-15T153343.467.png?alt=media&token=d17f99e3-1a53-4905-b422-88b5e63df2ee"
+   },
+   {
+      "id": 3,
+      "name": "CARTOON NETWORK",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5171",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-15T153227.384.png?alt=media&token=5ab335f3-2ee2-4d90-8759-6ca16ac83140"
+   },
+   {
+      "id": 4,
+      "name": "DISNEY JR",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/228040",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T203717.743.jpeg?alt=media&token=2bf2cf36-0e4e-48b1-b7a8-be07d1ccb2a9"
+   },
+   {
+      "id": 5,
+      "name": "DISNEY CHANNEL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5167",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T203847.045.jpeg?alt=media&token=9150c921-ba0c-4e1c-bc24-e1117faa543f"
+   },
+   {
+      "id": 6,
+      "name": "DISCOVERY KIDS",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5169",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Discovery-Kids.png?alt=media&token=1b9ff82a-a470-47da-aff0-ee8029ff5e36"
+   },
+   {
+      "id": 7,
+      "name": "NICK JR",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5157",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T204055.302.jpeg?alt=media&token=b076cdd2-9d6d-472c-8845-29c66b3229ca"
+   },
+   {
+      "id": 8,
+      "name": "BOOMERANG",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5180",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Boomerang_2014_logo.svg.png?alt=media&token=818ec2a8-30a9-45b5-abaf-aa2571681bd7"
+   },
+   {
+      "id": 9,
+      "name": "GLOOB",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5163",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T204343.077.jpeg?alt=media&token=7e085c82-c99b-4364-a852-e4475a745812"
+   },
+   {
+      "id": 10,
+      "name": "NAT GEO KIDS",
+      "link": "https://canaismax.com/assistir.php?chmax=natgeokids",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T204343.077.jpeg?alt=media&token=7e085c82-c99b-4364-a852-e4475a745812"
+   },
+   {
+      "id": 1,
+      "name": "COMEDY CENTRAL",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5269",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621296984479.png?alt=media&token=aaf8155e-5eaf-4a44-a015-d1f9eb45f939"
+   },
+   {
+      "id": 2,
+      "name": "DISCOVERY TURBO",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/4991",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
+   },
+   {
+      "id": 3,
+      "name": "FISH TV",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5261",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/fishtv1.png?alt=media&token=8547be00-843e-4935-ade9-8ce9e06e2c92"
+   },
+   {
+      "id": 4,
+      "name": "FOOD NETWORK",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5259",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Food_Network_-_Logo_2016.png?alt=media&token=54a51360-dd0c-432c-a733-9f1994094dfb"
+   },
+   {
+      "id": 5,
+      "name": "GNT",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5257",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-GNT_logo-roxo.svg.png?alt=media&token=78f83197-3edd-4d92-a415-40960da1d199"
+   },
+   {
+      "id": 6,
+      "name": "MULTISHOW",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5249",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297371486.png?alt=media&token=dd78accb-e58c-4284-ab64-7b868d64c58b"
+   },
+   {
+      "id": 7,
+      "name": "ID",
+      "link": "https://canaismax.com/assistir.php?chmax=idhd",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
+   },
+   {
+      "id": 8,
+      "name": "LIFE TIME",
+      "link": "https://canaismax.com/assistir.php?chmax=lifetimehd",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297530754.png?alt=media&token=8547d2a9-dde7-4ecc-a8d6-4f2698e2d4dcb"
+   },
+   {
+      "id": 9,
+      "name": "MAIS GLOBOSAT",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5253",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Mais_na_Tela_(2020).png?alt=media&token=9ef0efca-a42a-43c2-b350-c1b85c4ee993"
+   },
+   {
+      "id": 10,
+      "name": "MTV",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5251",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297671561.png?alt=media&token=78411fff-8fa4-4718-b6b6-6ab77420219f"
+   },
+   {
+      "id": 11,
+      "name": "TLC",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5241",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
+   },
+   {
+      "id": 12,
+      "name": "VIVA",
+      "link": "http://cdnrede.com:80/clerio12345/clerio54321/5236",
+      "poster_path": "https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Canal_Viva_2018_wordmark.svg.png?alt=media&token=6ac47014-3d19-4a7f-9611-779becf95bbd"
+   }
+]
